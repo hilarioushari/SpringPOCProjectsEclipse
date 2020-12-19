@@ -6,12 +6,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/spring-aop-5.3.1.jar"/>
-	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/spring-aspects-5.3.1.jar"/>
-	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/spring-beans-5.3.1.jar"/>
-	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/spring-context-5.3.1.jar"/>
-	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/spring-context-support-5.3.1.jar"/>
-	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/spring-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/JARS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/JARS/spring-aop-5.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/JARS/spring-aspects-5.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/JARS/spring-beans-5.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/JARS/spring-context-5.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/JARS/spring-context-support-5.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/STUDY_MATERIALS/NATARAJ_SIR/SPRING/JARS/spring-core-5.3.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

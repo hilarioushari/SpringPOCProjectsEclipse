@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- Dependet class cfgs -->
+<bean id="dEngine" class="com.hs.comp.DieselEngine"/>
+<bean id="pEngine" class="com.hs.comp.PetrolEngine"/>
+
+<!-- Target class cfg -->
+<bean id="vehicle" class="com.hs.comp.Vehicle">
+<property name="engg" ref="pEngine"/>
+</bean>
+
+
+
+
+</beans>
